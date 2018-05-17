@@ -1,0 +1,2 @@
+class Meo < ApplicationRecord
+end
